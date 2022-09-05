@@ -1,1 +1,34 @@
+Proyecto de Tratamiento de Datos
+
+Para el proyecto se requiere de librerias 
+Librerías de Python para Visualización
+Matplotlib
+Seaborn
+Bokeh
+Librerías de Python para Cálculo Numérico y Análisis de Datos
+NumPy
+SciPy
+Pandas
+Numba
+Librerías de Python para Machine Learning
+scikit-learn
+Librerías de Python para Deep Learning
+TensorFlow
+Keras
+PyTorch
+Librerías de Python para IA explicable
+SHAP
+Librerías de Python para Procesamiento de Lenguaje Natural
+NLTK: Natural Language Toolkit
+gensim
+spaCy
+
+Etiquetas y clases
+Daremos valores de 0 al 9 a cada categoria.
+
+Para mi proyecto trabaje en Google Colab ya que en mi computador personal
+se tuvo varios problemas para importar librerias.
+https://drive.google.com/drive/folders/1IkpeRdGE4-l3j--RWtvjSu6AMFJ2H6eQ?usp=sharing 
+
+train.ipynb  es el archivo donde se realizo en entrenamiento 
 
